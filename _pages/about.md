@@ -17,6 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+## 👤 About Me
 I am a graduate student at Northeastern University and have finished my Master's in Artificial Intelligence with a specialization in Machine Learning. I am fascinated by the software and technology currently being developed to produce extraordinary results. I completed my Bachelor of Engineering in CS from NIE,Mysuru.
 
 I'm passionate about innovation and love learning new things quickly. I believe in the power of technology to make a positive impact. I bring strong technical skills, adaptability, and a determined attitude to everything I do.
@@ -24,6 +25,44 @@ I'm passionate about innovation and love learning new things quickly. I believe 
 I believe that my technical skills, passion for innovation, and never willing to give up makes me a valuable asset to the team and I'm driven to use my skills to create meaningful change .I'm eager to explore opportunities where I can contribute and grow while making a difference.
 
 Click here to view my [CV](https://shishirkallapur.github.io/files/Shishir_Kallapur_Resume.pdf).
+
+## 💼 Experience
+
+**Amplifier Security** — *AI Product Intern*  
+May 2024 - Aug 2024 (Summer)  
+- Built NLP pipelines for sentiment analysis and topic modeling.
+- Integrated LLM APIs (OpenAI) into internal tools for automated content summarization.
+- Conducted benchmarking and evaluation of various transformer-based architectures.
+**JPMorgan Chase & Co.** — *Software Engineer*  
+Sept 2021 – Aug 2023  
+- Overhauled ServiceNow Knowledge module, enhancing request resolution speed by 20%.
+- Integrated JIRA with ServiceNow to automate SDLC tracking and reporting, incorporating CI/CD automation best practices and reducing manual effort by 40%.
+- Delivered 5 reusable UI macros to streamline HR documentation workflows; improved HR team’s document update efficiency by 45%.
+- Introduced and deployed catalog automation features, reducing request handling time by 30%.
+
+**MiQ Digital** — *Software Developer Intern*  
+Jan 2021 - Jul 2021
+- Implemented full-stack features using Spring Boot and AngularJS, enhancing platform performance and UX.
+- Integrated DSPs (Xandr, DV360) into internal tools, streamlining campaign activation and data processing.
+- Enabled DV360 as a viable DSP option, accelerating project timelines and increasing platform utility.  
+
+## 🚀 Projects
+
+### ⚕️ Relating Physical Activity to Problematic Internet Use in Youths  
+[GitHub Repo](https://github.com/shishirkallapur/CS6140-Relating-Physical-Activity-to-Problematic-Internet-Use-in-Youths)  
+The project is based on a [Kaggle Competition](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use) where the goal of this project is to develop a model capable of identifying the potential risk of problematic internet use among youths by utilizing relevant physical activity data and internet usage data.
+
+### ⚕️ Relating Physical Activity to Problematic Internet Use in Youths  
+[GitHub Repo](https://github.com/shishirkallapur/CS6140-Relating-Physical-Activity-to-Problematic-Internet-Use-in-Youths)  
+The project is based on a [Kaggle Competition](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use) where the goal of this project is to develop a model capable of identifying the potential risk of problematic internet use among youths by utilizing relevant physical activity data and internet usage data.
+
+### ⚕️ Relating Physical Activity to Problematic Internet Use in Youths  
+[GitHub Repo](https://github.com/shishirkallapur/CS6140-Relating-Physical-Activity-to-Problematic-Internet-Use-in-Youths)  
+The project is based on a [Kaggle Competition](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use) where the goal of this project is to develop a model capable of identifying the potential risk of problematic internet use among youths by utilizing relevant physical activity data and internet usage data.
+
+### ⚕️ Relating Physical Activity to Problematic Internet Use in Youths  
+[GitHub Repo](https://github.com/shishirkallapur/CS6140-Relating-Physical-Activity-to-Problematic-Internet-Use-in-Youths)  
+The project is based on a [Kaggle Competition](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use) where the goal of this project is to develop a model capable of identifying the potential risk of problematic internet use among youths by utilizing relevant physical activity data and internet usage data.
 
 <!-- # 🔥 News
 

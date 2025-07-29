@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shishir Kallapur"
-  avatar           : "images/icon-512x512.png"
+  avatar           : "images/android-chrome-512x512.png"
   bio              : "Graduated Master's in AI from Northeastern University."
   location         : "Boston, US"
   employer         :
@@ -136,7 +136,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Kolkata # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

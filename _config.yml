@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Guodong Chen"
-description              : "A Computer Engineering PhD student at Northeastern University."
-repository               : "frozzzen3/frozzzen3.github.io"
+title                    : "Shishir Kallapur"
+description              : "Graduated Master's in AI from Northeastern University."
+repository               : "shishirkallapur.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Guodong Chen"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Northeastern University"
+  name             : "Shishir Kallapur"
+  avatar           : "images/icon-512x512.png"
+  bio              : "Graduated Master's in AI from Northeastern University."
   location         : "Boston, US"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&user=ElM2s5oAAAAJ"
-  email            : "chen.guod@northeastern.edu"
+  email            : "kallapur.shi@northeastern.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +36,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :  "frozzzen3"
+  github           :  "shishirkallapur"
   google_plus      :
   keybase          :
   instagram        :

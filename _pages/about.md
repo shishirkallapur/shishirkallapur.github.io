@@ -51,21 +51,33 @@ Jan 2021 - Jul 2021
 
 # 🚀 Projects
 
-## ⚕️ Relating Physical Activity to Problematic Internet Use in Youths  
+## ⚕️ CS6140: Relating Physical Activity to Problematic Internet Use in Youths  
 [GitHub Repo](https://github.com/shishirkallapur/CS6140-Relating-Physical-Activity-to-Problematic-Internet-Use-in-Youths)  
 The project is based on a [Kaggle Competition](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use) where the goal of this project is to develop a model capable of identifying the potential risk of problematic internet use among youths by utilizing relevant physical activity data and internet usage data.
 
-## ⚕️ Relating Physical Activity to Problematic Internet Use in Youths  
-[GitHub Repo](https://github.com/shishirkallapur/CS6140-Relating-Physical-Activity-to-Problematic-Internet-Use-in-Youths)  
-The project is based on a [Kaggle Competition](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use) where the goal of this project is to develop a model capable of identifying the potential risk of problematic internet use among youths by utilizing relevant physical activity data and internet usage data.
+## ⚕️ CS5180: Enhancing Bipedal Robot Locomotion Using Reinforcement Learning with Reference Signal Integration
+[GitHub Repo](https://github.com/shishirkallapur/CS5180-RLBipedRobotLocomotion)  
+This is our final project for CS5180 Spring 2024 under Professor Lawson L.S Wong. To add more details
 
-## ⚕️ Relating Physical Activity to Problematic Internet Use in Youths  
-[GitHub Repo](https://github.com/shishirkallapur/CS6140-Relating-Physical-Activity-to-Problematic-Internet-Use-in-Youths)  
-The project is based on a [Kaggle Competition](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use) where the goal of this project is to develop a model capable of identifying the potential risk of problematic internet use among youths by utilizing relevant physical activity data and internet usage data.
+## ⚕️ CS5010: Image Processor  
+[GitHub Repo](https://github.com/shishirkallapur/CS5010-Image_Processor)  
+This is our final project for CS5010 Fall 2023 under Professor Amit Shesh. The project is based on building an image processing application designed with MVC architecture.The application takes in an image and performs an operation on the input image to produce a desired outcome.
 
-## ⚕️ Relating Physical Activity to Problematic Internet Use in Youths  
-[GitHub Repo](https://github.com/shishirkallapur/CS6140-Relating-Physical-Activity-to-Problematic-Internet-Use-in-Youths)  
-The project is based on a [Kaggle Competition](https://www.kaggle.com/competitions/child-mind-institute-problematic-internet-use) where the goal of this project is to develop a model capable of identifying the potential risk of problematic internet use among youths by utilizing relevant physical activity data and internet usage data.
+## ⚕️ CS5100: Adaptive Difficulty in Games: Leveraging Reinforcement Learning for Player-Driven Immersion 
+[GitHub Repo](https://github.com/shishirkallapur/CS5100-Adaptive-Difficulty-in-Games)  
+This is our final project for CS5100 Fall 2023 under Professor Rajagopal Venkatesaramani. The project utlizes Reinforcement Learning (RL) to create game levels that adapt to each player’s unique strengths, weaknesses, and preferences.The project also involved creating an Adversarial RL system to test both "Player" and "Environment" working together, where the player is trying to clear levels with ease whereas the "Environment" is continuously learning the "Player"s skills to make levels more difficult.
+
+## ⚕️ CS6120: Comparative Analysis of nGPT, PEGASUS, and BART in Abstractive Text Summarization 
+[GitHub Repo](https://github.com/shishirkallapur/CS6120-nGPT-BART-PEGASUS-efficiency-study)  
+This is our final project for CS6120 Fall 2024 under Professor Silvio Amir. This project aims to evaluate and compare the performance of nGPT (Nvidia's model) against two state-of-the-art abstractive text summarization models: PEGASUS (Google) and BART (Facebook). The focus is on assessing nGPT's claims of achieving 4-20x faster training times and improved stability for Large Language Models (LLMs) in the context of abstractive text summarization.
+
+## ⚕️ CS5170: Emotion-Driven Audio-Visual Experience: Enhancing Human-Computer Interaction through Real-Time Multimodal Feedback
+[GitHub Repo](https://github.com/shishirkallapur/CS5170-Emotion-Driven-Multi-Modal-AI)  
+This is our final project for CS5170 Spring 2025 under Professor Stacey Marsella. This project explores an AI-driven system for generating immersive and personalized audio-visual experiences by detecting user emotions and intent in real time.
+
+## ⚕️ Local Document-Powered RAG Chatbot
+[GitHub Repo](https://github.com/shishirkallapur/Local-Document-Powered-RAG-Chatbot)  
+This project is a Streamlit application that enables users to upload PDF documents, process them for information retrieval, and interact with the content through a conversational interface powered by Large Language Models (LLMs) and RAG.
 
 <!-- # 🔥 News
 

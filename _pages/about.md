@@ -57,7 +57,7 @@ The project is based on a [Kaggle Competition](https://www.kaggle.com/competitio
 
 ## ⚕️ CS5180: Enhancing Bipedal Robot Locomotion Using Reinforcement Learning with Reference Signal Integration
 [GitHub Repo](https://github.com/shishirkallapur/CS5180-RLBipedRobotLocomotion)  
-This is our final project for CS5180 Spring 2024 under Professor Lawson L.S Wong. To add more details
+This is our final project for CS5180 Spring 2024 under Professor Lawson L.S Wong. The goal of this project is to enable the successful navigation of a bipedal robot in a custom environment by seamlessly integrating control systems architecture and reinforcement learning (RL) techniques.
 
 ## ⚕️ CS5010: Image Processor  
 [GitHub Repo](https://github.com/shishirkallapur/CS5010-Image_Processor)  

@@ -31,10 +31,10 @@ Click here to view my [CV](https://shishirkallapur.github.io/files/Shishir_Kalla
 
 **Amplifier Security** — *AI Product Intern*  
 May 2024 - Aug 2024 (Summer)  
-- Spearheaded a comprehensive benchmarking initiative for GPT models(GPT-3.5, GPT-4, GPT-4o) significantly enhancing Ampy’s response accuracy, speed, and overall performance.
+- Spearheaded a comprehensive benchmarking initiative for GPT models, significantly enhancing Ampy’s response accuracy, speed and overall performance.
 - Implemented guardrails and prompts that boosted topical relevance by 35%, reducing hallucinations.
 - Automated response evaluation with custom Python scripts, improving testing speed by 3x.
-- Implemented a Retrieval-Augmented Generation (RAG) system with LangChain using Pinecone as Vector DB, enabling contextual replies from proprietary unstructured data.
+- Implemented a Retrieval-Augmented Generation (RAG) prototype with LangChain using Pinecone as Vector DB, enabling contextual replies from proprietary unstructured data.
 
 **JPMorgan Chase & Co.** — *Software Engineer*  
 Sept 2021 – Aug 2023  
@@ -50,6 +50,14 @@ Jan 2021 - Jul 2021
 - Enabled DV360 as a viable DSP option, accelerating project timelines and increasing platform utility.  
 
 # 🚀 Projects
+
+## ⚕️ Movie Recommendation System
+[GitHub Repo](https://github.com/shishirkallapur/recommendation-system-local)  
+This project is an end-to-end, production-style movie recommendation system built for learning MLOps practices. Runs fully on a local machine using open-source tools.
+
+## ⚕️ Local Document-Powered RAG Chatbot
+[GitHub Repo](https://github.com/shishirkallapur/Local-Document-Powered-RAG-Chatbot)  
+This project is a Streamlit application that enables users to upload PDF documents, process them for information retrieval, and interact with the content through a conversational interface powered by Large Language Models (LLMs) and RAG.
 
 ## ⚕️ CS6140: Relating Physical Activity to Problematic Internet Use in Youths  
 [GitHub Repo](https://github.com/shishirkallapur/CS6140-Relating-Physical-Activity-to-Problematic-Internet-Use-in-Youths)  
@@ -75,9 +83,6 @@ This is our final project for CS6120 Fall 2024 under Professor Silvio Amir. This
 [GitHub Repo](https://github.com/shishirkallapur/CS5170-Emotion-Driven-Multi-Modal-AI)  
 This is our final project for CS5170 Spring 2025 under Professor Stacey Marsella. This project explores an AI-driven system for generating immersive and personalized audio-visual experiences by detecting user emotions and intent in real time.
 
-## ⚕️ Local Document-Powered RAG Chatbot
-[GitHub Repo](https://github.com/shishirkallapur/Local-Document-Powered-RAG-Chatbot)  
-This project is a Streamlit application that enables users to upload PDF documents, process them for information retrieval, and interact with the content through a conversational interface powered by Large Language Models (LLMs) and RAG.
 
 <!-- # 🔥 News
 
